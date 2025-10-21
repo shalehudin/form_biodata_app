@@ -49,10 +49,10 @@ flutter run
 ## 📸 Screenshot
 
 ### Form Input
-(https://drive.google.com/file/d/1g83wBRCWO5n1bphpezSIq61q3SXrm3ht/view?usp=sharing)
+![Form Input](screenshots/form_input.png)
 
 ### Result Display
-https://github.com/shalehudin/form_biodata_app/blob/main/Cuplikan%20layar%202025-10-20%20212122.png
+![Result](screenshots/result_screen.png)
 
 
 ## 🎯 Cara Penggunaan
@@ -109,7 +109,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Shalehudin**
 - GitHub: [@shalehudin](https://github.com/shalehudin)
-- Email: shalehudin08@gmail.com
+- Email: shalehudin8@gmail.com
 
 ## 🙏 Acknowledgments
 
