@@ -52,7 +52,7 @@ flutter run
 (https://drive.google.com/file/d/1g83wBRCWO5n1bphpezSIq61q3SXrm3ht/view?usp=sharing)
 
 ### Result Display
-(https://drive.google.com/file/d/1ZtlvWdx0g9tL_j-kV3_lEcz8pKWhd-rL/view?usp=sharing))
+https://github.com/shalehudin/form_biodata_app/blob/main/Cuplikan%20layar%202025-10-20%20212122.png
 
 
 ## 🎯 Cara Penggunaan
