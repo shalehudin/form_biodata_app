@@ -52,7 +52,7 @@ flutter run
 ![Form Input](screenshots/form_input.png)
 
 ### Result Display
-![Result](screenshots/result_screen.png)
+![Result](screenshots/result_page.png)
 
 
 ## 🎯 Cara Penggunaan
