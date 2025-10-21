@@ -49,10 +49,10 @@ flutter run
 ## 📸 Screenshot
 
 ### Form Input
-![Form Input]([screenshots/form_input.png](https://drive.google.com/file/d/1g83wBRCWO5n1bphpezSIq61q3SXrm3ht/view?usp=sharing))
+(https://drive.google.com/file/d/1g83wBRCWO5n1bphpezSIq61q3SXrm3ht/view?usp=sharing)
 
 ### Result Display
-![Result]([screenshots/result_screen.png](https://drive.google.com/file/d/1ZtlvWdx0g9tL_j-kV3_lEcz8pKWhd-rL/view?usp=sharing))
+(https://drive.google.com/file/d/1ZtlvWdx0g9tL_j-kV3_lEcz8pKWhd-rL/view?usp=sharing))
 
 
 ## 🎯 Cara Penggunaan
